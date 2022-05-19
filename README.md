@@ -6,19 +6,19 @@ Richsheets, just another unified Spreadsheet Data Model supporting Rich-Text.
 + **Implementations**
    + richsheets-live
       + richsheets-live-ethercalc
-         + [richsheets-live-ethercalc-java](https://github.com/PuppyPi/richdatashets-live-ethercalc-java)
+         + [richsheets-live-ethercalc-java](https://github.com/PuppyPi/richsheets-live-ethercalc-java)
       + richsheets-live-google-sheets
-         + [richsheets-live-google-sheets-java](https://github.com/PuppyPi/richdatashets-live-google-sheets-java)
+         + [richsheets-live-google-sheets-java](https://github.com/PuppyPi/richsheets-live-google-sheets-java)
    + richsheets-localfile
-      + [richsheets-localfile-java](https://github.com/PuppyPi/richdatashets-localfile-java)
+      + [richsheets-localfile-java](https://github.com/PuppyPi/richsheets-localfile-java)
       + richsheets-localfile-gnumeric
-         + [richsheets-localfile-gnumeric-java](https://github.com/PuppyPi/richdatashets-localfile-gnumeric-java)
+         + [richsheets-localfile-gnumeric-java](https://github.com/PuppyPi/richsheets-localfile-gnumeric-java)
       + richsheets-localfile-ods
-         + [richsheets-localfile-ods-java](https://github.com/PuppyPi/richdatashets-localfile-ods-java)
+         + [richsheets-localfile-ods-java](https://github.com/PuppyPi/richsheets-localfile-ods-java)
       + richsheets-localfile-excel
          + [richsheets-localfile-excel-java](https://github.com/PuppyPi/richsheets-localfile-excel-java)
       + richsheets-localfile-json
-         + [richsheets-localfile-json-java](https://github.com/PuppyPi/richdatashets-localfile-json-java)
+         + [richsheets-localfile-json-java](https://github.com/PuppyPi/richsheets-localfile-json-java)
       + richsheets-localfile-cbor
          + [richsheets-localfile-cbor-java](https://github.com/PuppyPi/richsheets-localfile-cbor-java)
    + richsheets-gds
