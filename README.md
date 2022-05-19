@@ -23,6 +23,8 @@ Richsheets, just another unified Spreadsheet Data Model supporting Rich-Text.
          + [richsheets-localfile-cbor-java](https://github.com/PuppyPi/richsheets-localfile-cbor-java)
    + richsheets-gds
       + [richsheets-gds-java](https://github.com/PuppyPi/richsheets-gds-java)
++ **Tests**
+   + [richsheets-tests-java](https://github.com/PuppyPi/richsheets-tests-java)
 + **Some Client Code** (inexhaustive)
    + richdatashets-on-richsheets
       + [richdatashets-on-richsheets-java](https://github.com/PuppyPi/richdatashets-on-richsheets-java)
