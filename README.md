@@ -16,7 +16,7 @@ Richsheets, just another unified Spreadsheet Data Model supporting Rich-Text.
       + richsheets-localfile-ods
          + [richsheets-localfile-ods-java](https://github.com/PuppyPi/richdatashets-localfile-ods-java)
       + richsheets-localfile-excel
-         + [richsheets-localfile-excel-java](https://github.com/PuppyPi/richdatashets-localfile-excel-java)
+         + [richsheets-localfile-excel-java](https://github.com/PuppyPi/richsheets-localfile-excel-java)
       + richsheets-localfile-json
          + [richsheets-localfile-json-java](https://github.com/PuppyPi/richdatashets-localfile-json-java)
       + richsheets-localfile-cbor
